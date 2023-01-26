@@ -7,5 +7,6 @@ public class student {
         System.out.println("hey ben");
         System.out.println("nasilsin?");
         System.out.println("sen?");
+        System.out.println("iyi!");
     }
 }
