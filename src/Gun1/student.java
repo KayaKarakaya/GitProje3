@@ -5,5 +5,7 @@ public class student {
         System.out.println("hey sen");
 
         System.out.println("hey ben");
+        System.out.println("nasilsin?");
+        System.out.println("sen?");
     }
 }
